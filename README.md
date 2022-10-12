@@ -20,8 +20,7 @@ const morio = {
   hobbies: {
     Movie: ["Titanic", "The-Shawshank-Redemption", "Avatar"],
     Anime: ["Naruto", "Chainsaw-Man", "Shinkai-Makoto"],
-    HotSpring,
-    Coffee 
+    HotSpring: ["Atami", "Hakone", "Yugawara"]
   }
 }
 ```
