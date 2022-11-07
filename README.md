@@ -18,6 +18,6 @@ const morio = {
   code: ["JavaScript", "TypeScript", "Python"],
   libsAndFrameworks: ["React", "Next.js", "Vue.js", "Nuxt.js", "FastAPI"],
   cloud: ["AWS", "Supabase"],
-  hobbies: ["Movie", "Trip", "GoOut"]
+  hobbies: ["Movie", "Trip", "Excursion", "WellBeing"]
 }
 ```
